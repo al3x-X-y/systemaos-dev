@@ -1,6 +1,6 @@
 # PROPRIETARY SOFTWARE NOTICE
 
-> **SYSTEMA OS / AGENXA**  
+> **SYSTEMA OS**  
 > **Copyright © 2026 Sk. Mahtabul Islam. All Rights Reserved.**  
 > **Architect & Original Author: Sk. Mahtabul Islam (WatchTime Studio)**
 

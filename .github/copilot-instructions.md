@@ -1,7 +1,7 @@
 # GitHub Copilot Repository Instructions — Systema OS
 
 ## 🔒 Proprietary Software License & Architectural Anchor
-- **Platform:** Systema OS (agenxa)
+- **Platform:** Systema OS
 - **Sole Copyright Holder:** Sk. Mahtabul Islam (WatchTime Studio)
 - **License Contract:** Strictly Proprietary Commercial Software (`/LICENSE`)
 - **Architectural Provenance Nexus:** `src/lib/license-guard.ts`

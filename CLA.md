@@ -1,6 +1,6 @@
 # SYSTEMA OS CONTRIBUTOR LICENSE AGREEMENT (CLA)
 
-**Platform:** Systema OS (agenxa / Systema HQ)  
+**Platform:** Systema OS (Systema HQ)  
 **Sole Copyright Holder & Licensor:** Sk. Mahtabul Islam  
 **Effective Date:** January 1, 2026  
 

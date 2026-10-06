@@ -50,7 +50,7 @@ Systema OS consolidates the 5 essential agency tools (**GoHighLevel, Slack, Asan
   2. *Onboard Clients & Team*: Invite staff and spin up isolated client workspaces in under 30 seconds.
   3. *Assign Dedicated Managers*: Allow clients to assign their own Project Manager to steer day-to-day execution.
 
-![Executive Command Center](./screenshots/01-command-center.png)
+![Executive Command Center](./screenshots/01-command-center.png?v=20261006_live)
 
 ---
 
@@ -62,7 +62,7 @@ Systema OS consolidates the 5 essential agency tools (**GoHighLevel, Slack, Asan
   2. *1-Click Edge Deploy*: Publish brochure sites with automated edge SSL provisioning.
   3. *Audit & Form Sync*: Test live in-browser; lead capture forms automatically populate pipeline deal cards.
 
-![Website & Funnel Builder](./screenshots/02-website-funnel-builder.png)
+![Website & Funnel Builder](./screenshots/02-website-funnel-builder.png?v=20261006_live)
 
 ---
 
@@ -74,7 +74,7 @@ Systema OS consolidates the 5 essential agency tools (**GoHighLevel, Slack, Asan
   2. *In-App Video Chamber*: Host live video meetings with microphone, camera, and screen sharing controls.
   3. *Leadership Announcements*: Broadcast official milestone notices with read confirmations.
 
-![Messaging & Meeting Chamber](./screenshots/03-messaging-meeting-chamber.png)
+![Messaging & Meeting Chamber](./screenshots/03-messaging-meeting-chamber.png?v=20261006_live)
 
 ---
 
@@ -86,7 +86,7 @@ Systema OS consolidates the 5 essential agency tools (**GoHighLevel, Slack, Asan
   2. *Client Manager Role*: Clients assign their dedicated Project Manager to drive sprint execution.
   3. *Zero Data Leaks*: 100% strict subaccount RBAC ensures zero visibility into other businesses.
 
-![Multi-Tenancy & Client Governance](./screenshots/04-multitenancy-client-governance.png)
+![Multi-Tenancy & Client Governance](./screenshots/04-multitenancy-client-governance.png?v=20261006_live)
 
 ---
 
@@ -98,7 +98,7 @@ Systema OS consolidates the 5 essential agency tools (**GoHighLevel, Slack, Asan
   2. *Zero-Shorts Gap Intel*: Pinpoints creators with high reach but zero short-form video presence.
   3. *Direct CRM Enqueue*: Pushes verified decision-makers directly into outreach pipelines.
 
-![Autonomous Lead Radar](./screenshots/05-lead-radar.png)
+![Autonomous Lead Radar](./screenshots/05-lead-radar.png?v=20261006_live)
 
 ---
 
@@ -110,7 +110,7 @@ Systema OS consolidates the 5 essential agency tools (**GoHighLevel, Slack, Asan
   2. *Weighted Sizing*: Aggregates revenue totals across Inbound, Proposal, and Won stages.
   3. *Contact Dossiers*: Track client tags, custom fields, and complete communication history.
 
-![Kanban Opportunity CRM](./screenshots/06-kanban-pipeline-crm.png)
+![Kanban Opportunity CRM](./screenshots/06-kanban-pipeline-crm.png?v=20261006_live)
 
 ---
 
@@ -122,7 +122,7 @@ Systema OS consolidates the 5 essential agency tools (**GoHighLevel, Slack, Asan
   2. *Dual-Mode Approvals*: Toggle between instant delivery auto-clearing or manager sign-off.
   3. *Stripe Connect Escrow*: Funds disburse safely upon verified milestone completion.
 
-![Budget Caps & Escrow Governance](./screenshots/07-budget-escrow-finance.png)
+![Budget Caps & Escrow Governance](./screenshots/07-budget-escrow-finance.png?v=20261006_live)
 
 ---
 
@@ -134,7 +134,7 @@ Systema OS consolidates the 5 essential agency tools (**GoHighLevel, Slack, Asan
   2. *Typography Specimens*: Preview font specimen sheets and copy CSS `font-family` tokens in 1 click.
   3. *Category Filtering*: Filter brand assets by category with wide color gamut fidelity.
 
-![Multimedia Brand Vault](./screenshots/08-multimedia-brand-vault.png)
+![Multimedia Brand Vault](./screenshots/08-multimedia-brand-vault.png?v=20261006_live)
 
 ---
 
@@ -146,7 +146,7 @@ Systema OS consolidates the 5 essential agency tools (**GoHighLevel, Slack, Asan
   2. *Sprint Burndown Calculation*: Computes exact remaining work duration (~4.2 business days, Oct 29, 2026 delivery date).
   3. *Zero Generic AI Fluff*: Ingests live database telemetry for deterministic, actionable operations insights.
 
-![Autonomous AI Operations Copilot](./screenshots/09-autonomous-ai-operations.png)
+![Autonomous AI Operations Copilot](./screenshots/09-autonomous-ai-operations.png?v=20261006_live)
 
 ---
 

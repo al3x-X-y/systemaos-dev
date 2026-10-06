@@ -13,12 +13,6 @@
 
 ---
 
-## 🔒 Mandatory Proprietary Commercial Notice & License Guard
-> **PROPRIETARY NOTICE:** This software and its architectural assets are governed by a strict proprietary commercial license.  
-> **Original Creator, Chief Software Architect & Copyright Owner:** **Sk. Mahtabul Islam** (WatchTime Studio / WTS Firm).  
-> Unauthorized copying, reverse engineering, redistribution, packaging into multi-tenant SaaS, or deriving work without express written consent from Sk. Mahtabul Islam is strictly prohibited by intellectual property law.
-
----
 
 ## 🎬 Live Product Video Walkthroughs (Credentials Blurred)
 

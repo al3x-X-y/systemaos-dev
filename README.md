@@ -315,6 +315,5 @@ All credentials, API keys, test emails, and personal identifying details in the 
 ---
 
 ## 👨‍💻 Sovereign Creator & Chief Software Architect
-- **Original Creator & Chief Architect:** **Sk. Mahtabul Islam** (WatchTime Studio / WTS Firm).
+- **Creator & Architect:** **Sk. Mahtabul Islam** (WatchTime Studio).
 - **Core Technology:** Next.js 16 App Router, React 19, Tailwind CSS, Framer Motion, Prisma ORM, Stripe Connect Escrow, Google Gemini API.
-- **Proprietary Commercial License:** Systema OS architecture, design patterns, and codebase are protected under intellectual property law. All rights reserved by **Sk. Mahtabul Islam**.
